@@ -1,3 +1,4 @@
+#Informacje o Projekcie (Wersja e1)
 1. Do czego służy aplikacja(cel)?
 Aplikacja ma służyć do pobierania danych użytkownika przy logowaniu oraz przekierowywania użytkownika 
 na stronę docelową po podaniu prawidłowych danych. (Nie wiem jeszcze w 100% na czym będzie opierała sie moja strona, myślałem nad sklepem, wtedy służyła by także 
